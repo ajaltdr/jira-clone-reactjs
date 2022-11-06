@@ -1,0 +1,44 @@
+.left-nav {
+  background-color: #0747a6;
+  height: 850px;
+  width: 65px;
+  position: absolute;
+  transition: 0.09s;
+  z-index: 1;
+}
+
+.left-nav:hover {
+  width: 200px;
+}
+
+.left-nav-logo img {
+  width: 40px;
+  height: 30px;
+  margin-top: 30px;
+  padding-left: 10px;
+  cursor: pointer;
+}
+
+.left-nav-menu {
+  margin-top: 20px;
+  padding: 8px 15px;
+}
+
+.left-nav-menu:last-child {
+  margin-top: 500px;
+  padding: 8px 15px;
+}
+
+.left-nav-menu:hover {
+  cursor: pointer;
+  background-color: #4f7fc7;
+}
+
+.menu-text {
+  color: aliceblue;
+  font-family: "Roboto", sans-serif;
+  font-size: small;
+  margin-left: 15px;
+  margin-top: 3px;
+  font-weight: bold;
+}

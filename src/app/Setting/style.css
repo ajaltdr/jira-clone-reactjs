@@ -1,0 +1,16 @@
+.setting-container {
+  /* padding: 28px; */
+  margin: auto;
+  width: 60%;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+.breadcump {
+  font-weight: 500;
+  color: #858895;
+}
+
+.title {
+  margin-top: 5px;
+}
