@@ -21,7 +21,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "homepage": "https://parthaaaaa.github.io/firstwebapp",
+    "homepage": "https://ajaltdr.github.io/jira-clone-react",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
